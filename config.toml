@@ -20,7 +20,7 @@ publishDir = "docs"
 [[params.social]]
   medium = "facebook"
   icon = "facebook"
-  link = "#"
+  link = "www.facebook.com/timeframer"
 
 [[params.social]]
   medium = "instagram"
