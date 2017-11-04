@@ -4,7 +4,7 @@ theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
-#disableKinds=["RSS"]
+publishDir = "docs"
 
 [params]
   description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />

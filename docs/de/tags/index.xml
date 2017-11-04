@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Timeframer</title>
-    <link>http://timeframer.tylernol.org/tags/</link>
-    <description>Recent content in Tags on Timeframer</description>
+    <title>Tags on Dimension</title>
+    <link>http://timeframer.tylernol.org/de/tags/</link>
+    <description>Recent content in Tags on Dimension</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Untitled</copyright>
     
-	<atom:link href="http://timeframer.tylernol.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://timeframer.tylernol.org/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
